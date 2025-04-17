@@ -1,0 +1,58 @@
+body{
+background-color: #f5f5f1bb;
+
+}
+
+table{
+
+width: 80%;
+height: 80%;
+border-collapse: collapse;
+
+}
+.titulo2{
+color: white;
+background-color: rgb(255, 30, 0);
+}
+.gray{
+background-color: #bbbbbbb4;
+}
+th,td{
+padding: 5px;
+}
+.columna{
+    display: inline;
+
+}
+.Direccion{
+    margin: 10px;
+}
+.alargar{
+width: 99%;
+}
+.alarga{
+width: 67%;
+}
+.alarg{
+width: 99%;
+}
+.p{
+padding: 25px;
+
+}
+.enviar{
+    margin-top: 50px;
+    font-size: 15px;
+    transition: 1s;
+    box-shadow: 0 15px 10px black;
+    border-radius: 5px;
+}
+.enviar:hover{
+color: #fff;
+background-color: gray ;
+
+scale: 1.5;
+
+
+
+}
